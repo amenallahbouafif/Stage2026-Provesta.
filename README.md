@@ -1,6 +1,7 @@
 # Stage 2026 Application
 
-This repository contains a Laravel backend and a React/Vite frontend for a stock management and purchasing workflow.
+Application web de segmentation et de visualisation de données développée dans le cadre de mon stage 2026.
+
 
 ## Backend
 
